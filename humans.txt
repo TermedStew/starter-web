@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Cedric Esteves		heinzesteves45@gmail.com		@TermedStew45
 
 # THANKS
 
